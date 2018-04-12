@@ -1,0 +1,13 @@
+E:\CScode\图片查看器\图片查看器\bin\Debug\图片查看器.exe.config
+E:\CScode\图片查看器\图片查看器\bin\Debug\图片查看器.exe
+E:\CScode\图片查看器\图片查看器\bin\Debug\图片查看器.pdb
+E:\CScode\图片查看器\图片查看器\bin\Debug\myControl.dll
+E:\CScode\图片查看器\图片查看器\bin\Debug\myControl.pdb
+E:\CScode\图片查看器\图片查看器\obj\Debug\图片查看器.csprojResolveAssemblyReference.cache
+E:\CScode\图片查看器\图片查看器\obj\Debug\图片查看器.Form1.resources
+E:\CScode\图片查看器\图片查看器\obj\Debug\图片查看器.Properties.Resources.resources
+E:\CScode\图片查看器\图片查看器\obj\Debug\图片查看器.csproj.GenerateResource.cache
+E:\CScode\图片查看器\图片查看器\obj\Debug\图片查看器.csproj.CoreCompileInputs.cache
+E:\CScode\图片查看器\图片查看器\obj\Debug\图片查看器.csproj.CopyComplete
+E:\CScode\图片查看器\图片查看器\obj\Debug\图片查看器.exe
+E:\CScode\图片查看器\图片查看器\obj\Debug\图片查看器.pdb
